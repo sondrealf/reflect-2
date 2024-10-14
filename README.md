@@ -154,7 +154,7 @@ npx cypress run
 
 If you want to learn about the measures taken to make the project sustainable and accessible, you can read more about it [here](./docs/SustainabilityAccessibility.md).
 
-# Architecture
+# Architecture 
 
 If you want to learn about the architecture of the project, you can read more about it [here](./docs/Architecture.md).
 
